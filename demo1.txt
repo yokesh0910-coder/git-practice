@@ -1,5 +1,4 @@
 this is my first git practice
 learning vi editor
 this is second change
-learning git diff command
-this change added in feature branch
+learning git in conflict branch
