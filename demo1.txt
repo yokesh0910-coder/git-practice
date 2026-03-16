@@ -1,4 +1,7 @@
 this is my first git practice
 learning vi editor
 this is second change
+<<<<<<< HEAD
 learning git in master branch
+learning git in conflict branch
+>>>>>>> conflict1
