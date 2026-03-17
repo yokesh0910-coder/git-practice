@@ -5,3 +5,5 @@ this is second change
 learning git in master branch
 learning git in conflict branch
 >>>>>>> conflict1
+
+this is line from feature1 branch
